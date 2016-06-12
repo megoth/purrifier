@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Purrifier Chrome Plugin",
+  "description": "This extension makes a purring noise every time you click a link",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": {
+      "256": "icons/256.png",
+      "128": "icons/128.png",
+      "96": "icons/96.png",
+      "72": "icons/72.png",
+      "64": "icons/64.png",
+      "48": "icons/48.png",
+      "32": "icons/32.png",
+      "24": "icons/24.png",
+      "16": "icons/16.png"
+    },
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
