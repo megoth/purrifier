@@ -1,0 +1,1 @@
+A silly idea by me and [Daniel](https://github.com/daniehol) discovered when we travelled NY. Also our first take on a Chrome plugin.
